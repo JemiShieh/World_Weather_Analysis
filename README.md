@@ -1,1 +1,2 @@
-# World_Weather_Analysis
+# World Weather Analysis Overview
+Help develop hypothetical PlanMyTrip app. Retrieve weather data, have beta testers use input statements to filter data for weather preferences, which will be used to identify potential travel destinations and nearby hotels. From the list of potential travel destinations, the beta tester will choose four cities to create a travel itinerary, and then using the Google Maps Directions API, create a travel route between the four cities as well as a marker layer map with city, hotel, and weather information.
